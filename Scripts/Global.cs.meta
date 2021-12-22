@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b6d2d656ea3d4b24e9920d7e49c052c1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - objectAntiPin: {fileID: 7096378127843227769, guid: 23ddaed1c5b9f1e449512d2d30f9a20b, type: 3}
+  - objectPin: {fileID: 905373941493974904, guid: a4c43f5dcdc17374fad9612db53e5d2b, type: 3}
+  - objectPinCover: {fileID: -8093892634567169903, guid: 16e4b9d1f25b60f44a024edad941e629, type: 3}
+  - objectWholeBox: {fileID: -2432090755550338912, guid: 8c937ec8466e5c64484e9ca7c87a2007, type: 3}
+  - materialDefault: {fileID: 2100000, guid: 9a2cb4d686ece8647ab3fdd1539b0f75, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
